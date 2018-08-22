@@ -1,6 +1,6 @@
 .data
-vetor: .word 0:4    # vetor de 4 inteiros
-a: .word -1         # variável inicializada com -1
+vetor:  .word 0:4   # vetor de 4 inteiros
+a:      .word -1    # variável inicializada com -1
 
 .text 
 
